@@ -1,5 +1,6 @@
 
-[![MasterHead](https://i.pinimg.com/736x/45/53/86/455386f21c9a82ccb91ec78dacd9d8a9.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aLqXf-vmW_8FQbciIRmp-Zn1lbrLRf-urw&s)]
+[![MasterHead](![image](https://github.com/goel-aayush/goel-aayush/assets/119106215/da605f53-16d4-471e-89af-ed52fecbfb46)
+)]
 
 <h1 align="center">Hi 👋, I'm Aayush Goel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
