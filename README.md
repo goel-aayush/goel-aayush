@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aayush Goel  
 ### Passionate Frontend Developer from India  
 
-- 🔭 **Currently Working On**: [QR-Based Menu System](https://qr-menu-system-riyc.vercel.app/)  
+- 🔭 **Currently Working On**: [Inventory Management System](https://store-frontend-c7ie.onrender.com)  
 - 🌱 **Learning**: MERN Stack  
 - 💬 **Ask Me About**: React, JavaScript  
 - 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/aayush-goel-4284611b5)  
