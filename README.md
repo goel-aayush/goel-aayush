@@ -3,7 +3,7 @@
 
 - 🔭 **Currently Working On**: [Inventory Management System](https://store-frontend-c7ie.onrender.com)  
 - 🌱 **Learning**: Go Lang 
-- 💬 **Ask Me About**: React, JavaScript  
+- 💬 **Ask Me About**:Go , Node.js React, JavaScript 
 - 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/aayush-goel-4284611b5)  
 - ⚡ **Fun Fact**: I think I’m funny  
 
